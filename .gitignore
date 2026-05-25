@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.xurl
+*.key
+*.pem
+acme.json
+data/
+docs/
+launch-assets/
+node_modules/
+.DS_Store
+Thumbs.db
